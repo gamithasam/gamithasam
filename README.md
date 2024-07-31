@@ -12,8 +12,8 @@ I'm Gamitha, a passionate Computer Science student specializing in Artificial In
 
 ## My Toolbox 🛠️
 
-- **Languages**: Python, C++, Kotlin (and always expanding!)
-- **Tools**: Git, VS Code, Figma
+- **Languages**: Swift, Python, C++, Kotlin, Java (and always expanding!)
+- **Tools**: Git, XCode, VS Code, Figma
 - **Design**: User Interface (UI), User Experience (UX), Interaction Design (IxD)
 
 ## Connect with Me 🌐
