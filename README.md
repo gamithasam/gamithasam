@@ -18,8 +18,9 @@ I'm Gamitha Samarasingha, a motivated and detail-oriented Computer Science with 
 ## Connect with Me 🌐
 
 - LinkedIn - [Let's connect and explore endless possibilities](http://linkedin.com/in/gamithasam)
-- Buy Me a Coffee - [Support my work and fuel my passion for technology and design.](https://www.buymeacoffee.com/gamithasam)
-- Discord - [Join me on Discord to chat about tech and design.](https://discordapp.com/users/gamitha_sam)
+- KIC Creations – [Check out my notable projects at NIBM](https://kiccreations.lk)
+- Buy Me a Coffee - [Support my work and fuel my passion for technology.](https://www.buymeacoffee.com/gamithasam)
+- Discord - [Join me on Discord to chat about tech and development.](https://discordapp.com/users/gamitha_sam)
 
 Feel free to explore my repositories. Whether it's Swift apps, AI experiments, or full-stack tools—I'm always open to collaboration, feedback, or just a friendly chat about tech!
 
